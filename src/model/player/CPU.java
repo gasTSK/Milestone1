@@ -2,7 +2,7 @@ package model.player;
 
 import engine.board.BoardManager;
 import model.Colour;
-//snmeaky
+//snmeakyy
 public class CPU extends Player {
     private final BoardManager boardManager;
 
